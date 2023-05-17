@@ -39,5 +39,5 @@ int main() {
 	mhs2.printAll();
 	mhs3.printAll();
 	mhs4.printAll();
-	reurn 0;
+	return 0;
 }
